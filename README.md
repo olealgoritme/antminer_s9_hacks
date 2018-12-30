@@ -19,7 +19,7 @@ check web console of antminer -- all looks good? nice. then proceed to next step
 
 STEP3 (test ASIC frequencies)
 -----
-tweak ASIC CHIP frequency (start at 700MHz, go up incrementally (+1 step up) until u see HW errors, then go down till u see 0 or few errors
+tweak ASIC CHIP frequency (start at 700MHz, go up incrementally) with +1 step up until u see HW errors, then go down till u see 0 or few errors
 http://192.168.100.100/cgi-bin/minerAdvanced.cgi --> change Frequency here -- test for few minutes, then +1 step up
 
 
