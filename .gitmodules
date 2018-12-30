@@ -1,0 +1,3 @@
+[submodule "prebuilt-libz"]
+	path = bmminer/build-tools/prebuilt-libz
+	url = https://github.com/djp952/prebuilt-libz
