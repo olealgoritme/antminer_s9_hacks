@@ -13,6 +13,7 @@ stop bmminer (/etc/init.d/bmminer stop)
 backup bmminer (mv /usr/bin/bmminer /usr/bin/bmminer.old)
 copy new bmminer (e.g bmminer9v) (scp bmminer9v antminerip:/usr/bin/)
 rename bmminer9v (mv /usr/bin/bmminer9v /usr/bin/bmminer)
+change permissions (chmod +x /usr/bin/bmminer)
 restart bmminer (/etc/init.d/bmminer restart)
 check web console of antminer -- all looks good? nice. then proceed to next step.
 
